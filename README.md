@@ -6,8 +6,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/your-username/draggable-cards.git
+   cd draggable-cards
    ```
 
 2. **Install dependencies**:
@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 
 3. **Run the development server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## Contributing
